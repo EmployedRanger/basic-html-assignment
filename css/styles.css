@@ -11,8 +11,16 @@ button {
   padding: 0.5vw;
 }
 
-.unordered-list {
+.nav-list {
   display: flex;
   justify-content: flex-end;
   margin-right: 5vw;
+}
+
+.education-list-container {
+  display: flex;
+}
+
+.section {
+  margin: 5vw;
 }
