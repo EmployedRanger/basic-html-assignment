@@ -24,3 +24,93 @@ button {
 .section {
   margin: 5vw;
 }
+
+.portfolio-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
+
+.slider {
+  width: 100%;
+  max-width: 800px;
+  height: 440px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 1px 2px 2px grey;
+  /* margin-top: 4vh; */
+}
+
+.slide {
+  width: 100%;
+  max-width: 800px;
+  height: 440px;
+  position: absolute;
+  transition: all 0.5s;
+}
+
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.btn {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  z-index: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  font-size: 18px;
+}
+
+.btn:active {
+  transform: scale(1.1);
+}
+
+.btn-next {
+  top: 45%;
+  right: 2%;
+}
+
+.btn-previous {
+  top: 45%;
+  left: 2%;
+}
+
+.dot-container-wrapper {
+  width: 60px;
+  height: 30px;
+  border: 2px black;
+}
+
+.dot-container {
+  width: 100%;
+  height: 100%;
+  /* border: 1px solid black; */
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dot {
+  height: 4px;
+  width: 4px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.background-white {
+  background-color: white;
+}
+
+.background-black {
+  background-color: black;
+}

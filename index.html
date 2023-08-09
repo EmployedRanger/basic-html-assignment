@@ -7,6 +7,8 @@
     <title>Logan Malmstrom</title>
     <link rel="stylesheet" href="css/normalize.css" type="text/css">
     <link rel="stylesheet" href="css/styles.css">
+    <script src="https://kit.fontawesome.com/09fdb0b01c.js" crossorigin="anonymous">
+    </script>
 
 </head>
 
@@ -35,7 +37,7 @@
         <div id="profile" class="section">
             <h1>Logan Malmstrom</h1=>
                 <h4>Student</h4>
-                <img src="" alt="profile picture">
+                <img src="/img/profile-pic-saver.png" alt="profile picture">
         </div>
 
         <div id="about" class="section">
@@ -99,10 +101,9 @@
 
         <div id="education" class="section">
             <div class="education-container">
-
+                <br>
                 <h2>Education</h2>
                 <div class="education-list-container">
-
                     <ul class="unordered-list">
                         <li class="no-bullet">Managerial Economics</li>
                         <li class="no-bullet">Calculus 1</li>
@@ -130,15 +131,42 @@
         <div id="portfolio" class="section">
             <h2>Portfolio</h2>
             <div class="portfolio-container">
-                <p>This is where a carousel will go that displays all my projects including:</p>
-                <ul class="unordered-list">
-                    <li class="no-bullet">Etch-a-Sketch</li>
-                    <li class="no-bullet">Calculator</li>
-                    <li class="no-bullet">Mini library</li>
-                    <li class="no-bullet">Tic-Tac-Toe</li>
-                    <li class="no-bullet">To-do list</li>
-                    <li class="no-bullet">Weather app?</li>
-                </ul>
+                <div class="slider">
+                    <div class="slide">
+                        <!-- <h3>Etch-a-sketch</h3> -->
+                        <img src="img/etch-a-sketch.png" alt="etch-a-sketch">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Calculator</h3> -->
+                        <img src="img/calculator.png" alt="Calculator">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Library</h3> -->
+                        <img src="img/library.png" alt="mini library">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Pizza Place</h3> -->
+                        <img src="img/pizza-place.png" alt="Pizza Place">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Rock-Paper-Scissors</h3> -->
+                        <img src="img/rock-paper-scissors.png" alt="rock paper scissors">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Sign-up Form</h3> -->
+                        <img src="img/sign-up-form.png" alt="sign up form">
+                    </div>
+                    <div class="slide">
+                        <!-- <h3>Tic-Tac-Toe</h3>  -->
+                        <img src="img/tic-tac-toe.png" alt="Tic-Tac-Toe">
+                    </div>
+                    <button class="btn btn-next">></button>
+                    <button class="btn btn-previous"></button>
+                </div>
+
+                <div class="dot-container-wrapper">
+                    <div class="dot-container"></div>
+                </div>
             </div>
         </div>
 
@@ -151,6 +179,8 @@
             </div>
         </div>
     </div>
+
+    <script src="javascript.js"></script>
 </body>
 
 </html>
