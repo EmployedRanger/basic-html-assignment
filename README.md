@@ -74,3 +74,6 @@ For this assignment you will need to submit the following:
     Basic HTML structure for all HTML files
     Initial navigation with links to all sections or pages
     Initial content in all sections or pages
+
+Background https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html'
+free background photos from pngtree.com
