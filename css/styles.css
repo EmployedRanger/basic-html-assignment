@@ -162,7 +162,7 @@ body {
 }
 
 #profile {
-  background-image: url(../img/background-main.png);
+  background-image: url(./img/background-main.png);
   background-size: cover;
   width: 100%;
   margin-top: 16px;
