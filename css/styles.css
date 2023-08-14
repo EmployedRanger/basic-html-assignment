@@ -378,6 +378,10 @@ body:hover {
   padding: 10vh;
 }
 
+#portfolio h2 {
+  font-size: 3rem;
+}
+
 /* ============= Slider ============= */
 
 .slider {
