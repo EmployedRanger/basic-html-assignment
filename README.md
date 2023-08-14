@@ -19,7 +19,7 @@ This website showcases my profile, experience, education, and portfolio projects
 
 To view the website locally, follow these steps:
 
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository: `git clone git@github.com:EmployedRanger/basic-html-assignment.git`
 2. Open the `index.html` file in a web browser.
 
 ## Technologies Used
@@ -33,7 +33,8 @@ To view the website locally, follow these steps:
 ## Credits
 
 *Background* <br>
-[PngTree](https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html) <br> free background photos from pngtree.com
+[PngTree](https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html) <br>
+Free background photos from pngtree.com
 
 ## License
 
@@ -41,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Logan Malmstrom Portfolio**<br>
-*Created by [Your Name]*<br>
+**Employed Ranger Portfolio**<br>
+*Created by [EmployedRanger]*<br>
 [GitHub Repository](https://github.com/EmployedRanger/basic-html-assignment)
