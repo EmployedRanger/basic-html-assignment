@@ -33,7 +33,7 @@ To view the website locally, follow these steps:
 ## Credits
 
 *Background* <br>
-[PngTree] https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html free background photos from pngtree.com
+[PngTree](https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html) <br> free background photos from pngtree.com
 
 ## License
 
