@@ -1,79 +1,46 @@
-# basic-html-assignment
+# Logan Malmstrom Portfolio
 
-For your final project you will start building your web development portfolio. This is somewhat different from the site that you built in the introduction course, (for high schools students: you don't have to take the intro class, so you haven't built this site). The site you built in the intro course is a resume website. Your portfolio website will have much of the same information: your name, contact information, schooling, work experience, etc. However, it will also have a place for potential employers and clients to contact you as well as a page to post links to projects that you have developed.
+This repository contains the HTML, CSS, and JavaScript code for my personal portfolio website.
 
-File Structure
+## Description
 
-Set up the file structure that you will use for the final project. At a minimum you will need the following folders and files:
+This website showcases my profile, experience, education, and portfolio projects. It is designed to provide visitors with information about my skills, background, and projects.
 
-    css - this folder will be inside the final project folder and will contain all your css files
-    img - this folder will be inside the final project folder and will contain all your image files
-    index.html
-    styles.css (Inside the css folder)
-    normalize.css - you can copy this from the other project you are building. (Inside the css folder)
+## Sections
 
-Optional Files
+1. **Profile**: Introduction to Logan Malmstrom, including a profile picture.
+2. **About**: A paragraph about myself, my experiences, and future plans.
+3. **Experience**: Overview of my front-end, back-end, and miscellaneous skills.
+4. **Education**: Details about my education in Finance and Economics.
+5. **Portfolio**: Display of various coding projects I have worked on.
+6. **Contact**: A contact form for reaching out to me.
 
-There are a couple of ways to build a portfolio site. You can create a single page site where all the content is on a single page, like you did with the resume site in the intro class, or you can create a separate page for each of the sections of your portfolio.
+## Usage
 
-You don't need to make that decision now. However, should you choose to have separate pages for each of the sections of your portfolio you can create those pages now. At a minimum you will need the following pages:
+To view the website locally, follow these steps:
 
-    Education
-    Work experience
-    Portfolio
-    Contact
-    Biography
+1. Clone this repository: `git clone <repository_url>`
+2. Open the `index.html` file in a web browser.
 
-Optional pages can include the following:
+## Technologies Used
 
-    Testimonials
-    Personal blog
-    Skills
-    Interests
-    Services
+- HTML
+- CSS
+- JavaScript
+- Font Awesome icons
+- Google Fonts
 
-Page Setup
+## Credits
 
-For each of the HTML pages that you created you need to fill out the meta tags and the title tags in the head section. You also need to link the CSS stylesheets. If you want to include any fonts or use Font Awesome icons you will need to link those as well.
-Layout Options
+*Background* <br>
+*url* https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html' free background photos from pngtree.com
 
-Choose either a single page or a multi-page layout. You will modify your CSS styles to mimic one of the following layouts. Your site doesn't need to be an exact duplicate of either of these layouts. They are just there to get you thinking about how you want to structure your portfolio.
+## License
 
-The following is a mock-up of what the subsequent pages can look like. You have the navigation at the top with the content underneath and a footer at the bottom. The navigation and the footer are the same as on the home page.
+This project is licensed under the [MIT License](LICENSE).
 
-The above are just mock-ups. These are just possible designs. You don't have to mimic these exactly.
-Page Content
-Navigation
+---
 
-Begin by creating the navigation create a unordered list of the pages or sections in your portfolio site. If you are creating a single page site you will need the following sections at a minimum:
-
-    Biography
-    Contact
-    Education
-    Work experience
-    Portfolio section
-
-If you have more sections than this you will need to add them to the list.
-
-If you are creating a multi-page portfolio, the biography and contact information will go on the index.html page.
-
-Create the links to all the sections or pages depending on the layout that you chose.
-Sections
-
-If you created a single page portfolio create a section for each of the parts of your portfolio. If you created a multi-page portfolio, create one section per page. In either case, you will use div and paragraph to section out the content. If you want you can look back at your resume site to get ideas. You can also look at the site you are creating for ideas on how to organize your content.
-
-Start populating the the various sections. Right now it isn't so important to have a final design. You can make modifications to the design and the content later. Right now, we are working on file structure, organization, and content. You can do a search for portfolio websites to get some ideas as well.
-
-Since you may not have anything to show in the portfolio section, type "Coming Soon".
-Requirements
-
-For this assignment you will need to submit the following:
-
-    The proper file structure
-    A single page or multi-page design
-    Basic HTML structure for all HTML files
-    Initial navigation with links to all sections or pages
-    Initial content in all sections or pages
-
-Background https://pngtree.com/freebackground/3d-abstract-brush-background_986391.html'
-free background photos from pngtree.com
+**Logan Malmstrom Portfolio**<br>
+*Created by [Your Name]*<br>
+[GitHub Repository](https://github.com/EmployedRanger/basic-html-assignment)
