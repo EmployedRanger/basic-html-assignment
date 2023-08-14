@@ -499,6 +499,7 @@ h1 {
 }
 
 .contact-form {
+  box-shadow: 1px 0 5px 3px rgba(112, 112, 112, 0.55);
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
@@ -515,6 +516,24 @@ h1 {
 form {
   padding: 2rem;
   padding-right: 2.5rem;
+  display: grid;
+  grid-template-columns: 2 repeat(1fr);
+  gap: 50px;
+}
+
+.left-contact-container {
+  grid-column: 1 / 2;
+  justify-content: space-evenly;
+}
+
+.right-contact-container {
+  grid-column: 2 / 3;
+}
+
+.right-contact-container, 
+.left-contact-container {
+  flex: 1;
+  padding: 10px;
 }
 
 label {
@@ -546,6 +565,7 @@ button[type="submit"] {
   border-radius: 3px;
   cursor: pointer;
   border: transparent solid 2px;
+  margin: 0;
 }
 
 button[type="submit"]:hover {
@@ -608,4 +628,8 @@ footer hr {
   height: 1px;
   background: #fff;
   background-image: linear-gradient(to right, #424949, #fff, #424949);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Orbitron", sans-serif;
 }
