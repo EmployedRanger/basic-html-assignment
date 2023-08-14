@@ -1,4 +1,4 @@
-# Logan Malmstrom Portfolio
+# Employed Ranger Portfolio
 
 This repository contains the HTML, CSS, and JavaScript code for my personal portfolio website.
 
@@ -8,7 +8,7 @@ This website showcases my profile, experience, education, and portfolio projects
 
 ## Sections
 
-1. **Profile**: Introduction to Logan Malmstrom, including a profile picture.
+1. **Profile**: Introduction, including a profile picture.
 2. **About**: A paragraph about myself, my experiences, and future plans.
 3. **Experience**: Overview of my front-end, back-end, and miscellaneous skills.
 4. **Education**: Details about my education in Finance and Economics.
